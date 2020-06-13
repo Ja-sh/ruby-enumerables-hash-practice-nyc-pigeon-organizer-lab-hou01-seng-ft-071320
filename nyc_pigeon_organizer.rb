@@ -1,5 +1,7 @@
-
+=begin
 use pry to view values of variables and where you are placing the values 
+needed to watch walkthrough for more assistance 
+=end
 require 'pry'
 
 def nyc_pigeon_organizer(data)
